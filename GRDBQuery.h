@@ -3,6 +3,7 @@
 //  GRDBQuery
 //
 //  Created by Jason Abbott on 7/22/24.
+//  Copyright © 2024 Toba LLC. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
